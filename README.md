@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/saulozitos/saulozitos/master/wave.gif" width="30px">
 
 My name is Saulo Campos and I'm a computer engenieer/C++ developer. I'm from Brazil, living in São Paulo and currently working at Stone. You can find me on [Linkedin](https://www.linkedin.com/in/saulozitos/).
 
