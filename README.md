@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/saulozitos/saulozitos/master/wave.gif" width="30px">
 
-My name is Saulo Campos and I'm a computer engenieer/C++ developer. I'm from Brazil, living in São Paulo and currently working at Stone. You can find me on [Linkedin](https://www.linkedin.com/in/saulozitos/).
+My name is Saulo Campos and I'm a computer engenieer/C++ developer. I'm from Brazil, living in Belo Horizonte and currently working at [Stone](https://www.stone.com.br/). You can find me on [Linkedin](https://www.linkedin.com/in/saulozitos/).
 
 - 👋 Hi, I’m @saulozitos
 - 👀 I’m interested in Modern C++.
